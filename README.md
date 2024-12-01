@@ -30,5 +30,5 @@ Things to note:
 
 How to get access?
 
-For now, you will need to DM @synterror -The official D website will be live soon. You will be able to purchase and download the bot directly from there. Announcement will be made when website is live.
+For now, you will need to DM @synterror -The official website will be live soon. You will be able to purchase and download the bot directly from there. Announcement will be made when website is live.
  
