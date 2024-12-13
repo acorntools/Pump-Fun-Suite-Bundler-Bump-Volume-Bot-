@@ -10,9 +10,9 @@ This bot currently includes: PumpFun Launch Bundler, Volume Bot, Bump Bot, Comme
 
 Spots are currently limited to ensure smooth functionality and better 1 on 1 support
 
-Current Price: 19 SOL
+Current Price: 10 SOL
 
-MONTHLY Price 4 Sol
+MONTHLY Price 2 Sol
 
 Things to note:
 
